@@ -244,106 +244,21 @@
         <h2>Fasilitas OLC Edukasi</h2>
       </div>
       <div class="row">
-        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
-          <div class="layanan-item">
-            <div class="layanan">
-              <img src="assets/img/teacher.png" alt="">
+        <?php foreach ($fasilitas as $fas) { ?>
+
+          <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
+            <div class="layanan-item">
+              <div class="layanan">
+                <img src="assets/img/teacher.png" alt="">
+              </div>
+              <!-- <h3>Program Online</h3> -->
+              <p>
+                Tenaga pengajar yang ahli di bidangnya
+              </p>
             </div>
-            <!-- <h3>Program Online</h3> -->
-            <p>
-              Tenaga pengajar yang ahli di bidangnya
-            </p>
           </div>
-        </div>
-        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-          <div class="layanan-item">
-            <div class="layanan">
-              <!-- <i class="fa fa-user"></i> -->
-              <img src="assets/img/list.png" alt="">
-            </div>
-            <!-- <h3>Program Private</h3> -->
-            <p>
-              Membedah tuntas soal psikotes dan akademik
-            </p>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.8s">
-          <div class="layanan-item">
-            <div class="layanan">
-              <img src="assets/img/therapy.png" alt="">
-            </div>
-            <!-- <h3>Program Jasmani</h3> -->
-            <p>
-              Program layanan terapi fisik & kesehatan mental
-            </p>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.0s">
-          <div class="layanan-item">
-            <div class="layanan">
-              <img src="assets/img/classroom.png" alt="classroom">
-            </div>
-            <!-- <h3>Program Reguler</h3> -->
-            <p>
-              Ruang kelas nyaman & bersih
-            </p>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
-          <div class="layanan-item">
-            <div class="layanan">
-              <img src="assets/img/parent.png" alt="">
-            </div>
-            <!-- <h3>Program Intensif</h3> -->
-            <p>
-              Sistem pemantauan untuk orang tua
-            </p>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.8s">
-          <div class="layanan-item">
-            <div class="layanan">
-              <img src="assets/img/result.png" alt="">
-            </div>
-            <!-- <h3>Program Jasmani</h3> -->
-            <p>
-              Pelaporan hasil belajar secara berkala
-            </p>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.8s">
-          <div class="layanan-item">
-            <div class="layanan">
-              <img src="assets/img/computer.png" alt="">
-            </div>
-            <!-- <h3>Program Jasmani</h3> -->
-            <p>
-              Tryout (CBT) secara berkala
-            </p>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.8s">
-          <div class="layanan-item">
-            <div class="layanan">
-              <img src="assets/img/graduate.png" alt="">
-            </div>
-            <!-- <h3>Program Jasmani</h3> -->
-            <p>
-              Durasi pendampingan sampai lulus
-            </p>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.8s">
-          <div class="layanan-item">
-            <div class="layanan">
-              <img src="assets/img/consulting.png" alt="">
-            </div>
-            <!-- <h3>Program Jasmani</h3> -->
-            <p>
-              Free konsultasi
-            </p>
-          </div>
-        </div>
+        <?php } ?>
+
       </div>
     </div>
   </div>
