@@ -279,9 +279,11 @@
               <img src="<?= base_url('assets/upload/image/' . $alum->gambar) ?>" alt="Blog">
             </div>
             <div class="blog-text">
-              <h2>Wahyu Ansyar Putra P.</h2>
+              <h2>
+                <?= $alum->nama_alumni ?>
+              </h2>
               <p>
-                Kedinasan POLTEKPEL
+                <?= $alum->lulusan ?>
               </p>
             </div>
           </div>
@@ -302,7 +304,7 @@
       <div class="owl-carousel testimonials-carousel">
         <div class="testimonial-item">
           <div class="testimonial-img">
-            <img src="assets/img/testi-9.jpg" alt="Image">
+            <img src="assets/upload/testi/testi-1.jpg" alt="Image">
           </div>
           <div class="testimonial-text">
             <p>
@@ -314,7 +316,103 @@
         </div>
         <div class="testimonial-item">
           <div class="testimonial-img">
-            <img src="assets/img/testi-10.jpg" alt="Image">
+            <img src="assets/upload/testi/testi-2.jpg" alt="Image">
+          </div>
+          <div class="testimonial-text">
+            <p>
+              Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis
+              suscip justo dictum.
+            </p>
+            <h3>Wahyu Ansyar Putra Pratama</h3>
+          </div>
+        </div>
+        <div class="testimonial-item">
+          <div class="testimonial-img">
+            <img src="assets/upload/testi/testi-3.jpg" alt="Image">
+          </div>
+          <div class="testimonial-text">
+            <p>
+              Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis
+              suscip justo dictum.
+            </p>
+            <h3>Wahyu Ansyar Putra Pratama</h3>
+          </div>
+        </div>
+        <div class="testimonial-item">
+          <div class="testimonial-img">
+            <img src="assets/upload/testi/testi-4.jpg" alt="Image">
+          </div>
+          <div class="testimonial-text">
+            <p>
+              Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis
+              suscip justo dictum.
+            </p>
+            <h3>Wahyu Ansyar Putra Pratama</h3>
+          </div>
+        </div>
+        <div class="testimonial-item">
+          <div class="testimonial-img">
+            <img src="assets/upload/testi/testi-5.jpg" alt="Image">
+          </div>
+          <div class="testimonial-text">
+            <p>
+              Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis
+              suscip justo dictum.
+            </p>
+            <h3>Wahyu Ansyar Putra Pratama</h3>
+          </div>
+        </div>
+        <div class="testimonial-item">
+          <div class="testimonial-img">
+            <img src="assets/upload/testi/testi-6.jpg" alt="Image">
+          </div>
+          <div class="testimonial-text">
+            <p>
+              Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis
+              suscip justo dictum.
+            </p>
+            <h3>Wahyu Ansyar Putra Pratama</h3>
+          </div>
+        </div>
+        <div class="testimonial-item">
+          <div class="testimonial-img">
+            <img src="assets/upload/testi/testi-7.jpg" alt="Image">
+          </div>
+          <div class="testimonial-text">
+            <p>
+              Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis
+              suscip justo dictum.
+            </p>
+            <h3>Wahyu Ansyar Putra Pratama</h3>
+          </div>
+        </div>
+        <div class="testimonial-item">
+          <div class="testimonial-img">
+            <img src="assets/upload/testi/testi-8.jpg" alt="Image">
+          </div>
+          <div class="testimonial-text">
+            <p>
+              Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis
+              suscip justo dictum.
+            </p>
+            <h3>Wahyu Ansyar Putra Pratama</h3>
+          </div>
+        </div>
+        <div class="testimonial-item">
+          <div class="testimonial-img">
+            <img src="assets/upload/testi/testi-9.jpg" alt="Image">
+          </div>
+          <div class="testimonial-text">
+            <p>
+              Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis
+              suscip justo dictum.
+            </p>
+            <h3>Wahyu Ansyar Putra Pratama</h3>
+          </div>
+        </div>
+        <div class="testimonial-item">
+          <div class="testimonial-img">
+            <img src="assets/upload/testi/testi-10.jpg" alt="Image">
           </div>
           <div class="testimonial-text">
             <p>
@@ -326,7 +424,7 @@
         </div>
         <div class="testimonial-item">
           <div class="testimonial-img">
-            <img src="assets/img/testi-11.jpg" alt="Image">
+            <img src="assets/upload/testi/testi-11.jpg" alt="Image">
           </div>
           <div class="testimonial-text">
             <p>
@@ -338,7 +436,7 @@
         </div>
         <div class="testimonial-item">
           <div class="testimonial-img">
-            <img src="assets/img/testi-12.jpg" alt="Image">
+            <img src="assets/upload/testi/testi-12.jpg" alt="Image">
           </div>
           <div class="testimonial-text">
             <p>
@@ -350,7 +448,7 @@
         </div>
         <div class="testimonial-item">
           <div class="testimonial-img">
-            <img src="assets/img/testi-13.jpg" alt="Image">
+            <img src="assets/upload/testi/testi-13.jpg" alt="Image">
           </div>
           <div class="testimonial-text">
             <p>
@@ -362,7 +460,19 @@
         </div>
         <div class="testimonial-item">
           <div class="testimonial-img">
-            <img src="assets/img/testi-14.jpg" alt="Image">
+            <img src="assets/upload/testi/testi-14.jpg" alt="Image">
+          </div>
+          <div class="testimonial-text">
+            <p>
+              Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis
+              suscip justo dictum.
+            </p>
+            <h3>Customer Name</h3>
+          </div>
+        </div>
+        <div class="testimonial-item">
+          <div class="testimonial-img">
+            <img src="assets/upload/testi/testi-15.jpg" alt="Image">
           </div>
           <div class="testimonial-text">
             <p>
