@@ -249,11 +249,11 @@
           <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
             <div class="layanan-item">
               <div class="layanan">
-                <img src="assets/img/teacher.png" alt="">
+                <img src="<?= base_url('assets/upload/image/' . $fas->gambar) ?>" alt="">
               </div>
               <!-- <h3>Program Online</h3> -->
               <p>
-                Tenaga pengajar yang ahli di bidangnya
+                <?= $fas->nama_fasilitas ?>
               </p>
             </div>
           </div>
