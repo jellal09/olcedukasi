@@ -272,72 +272,21 @@
         <h2>Alumni OLC Edukasi</h2>
       </div>
       <div class="owl-carousel blog-carousel wow fadeInUp" data-wow-delay="0.1s">
-        <div class="blog-item">
-          <div class="blog-img">
-            <img src="assets/img/alum1.jpg" alt="Blog">
+
+        <?php foreach ($alumni as $alum) { ?>
+          <div class="blog-item">
+            <div class="blog-img">
+              <img src="<?= base_url('assets/upload/image/' . $alum->gambar) ?>" alt="Blog">
+            </div>
+            <div class="blog-text">
+              <h2>Wahyu Ansyar Putra P.</h2>
+              <p>
+                Kedinasan POLTEKPEL
+              </p>
+            </div>
           </div>
-          <div class="blog-text">
-            <h2>Wahyu Ansyar Putra P.</h2>
-            <p>
-              Kedinasan POLTEKPEL
-            </p>
-          </div>
-        </div>
-        <div class="blog-item">
-          <div class="blog-img">
-            <img src="assets/img/alum2.jpg" alt="Blog">
-          </div>
-          <div class="blog-text">
-            <h2>Aditya Aryayuda Putra</h2>
-            <p>
-              Lulusan TNI AL
-            </p>
-          </div>
-        </div>
-        <div class="blog-item">
-          <div class="blog-img">
-            <img src="assets/img/alum3.jpg" alt="Blog">
-          </div>
-          <div class="blog-text">
-            <h2>Yusuf Akbar Al Kahfi</h2>
-            <p>
-              Lulusan Bintara POLRI
-            </p>
-          </div>
-        </div>
-        <div class="blog-item">
-          <div class="blog-img">
-            <img src="assets/img/alum4.jpg" alt="Blog">
-          </div>
-          <div class="blog-text">
-            <h2>Lazuardy Imam Qudzori</h2>
-            <p>
-              Lulusan Kedinasan PPI
-            </p>
-          </div>
-        </div>
-        <div class="blog-item">
-          <div class="blog-img">
-            <img src="assets/img/alum5.jpg" alt="Blog">
-          </div>
-          <div class="blog-text">
-            <h2>Tegar Farda Saputra</h2>
-            <p>
-              Lulusan Bintara POLRI
-            </p>
-          </div>
-        </div>
-        <div class="blog-item">
-          <div class="blog-img">
-            <img src="assets/img/alum6.jpg" alt="Blog">
-          </div>
-          <div class="blog-text">
-            <h2>Andhika Ghaniya R.</h2>
-            <p>
-              Lulusan Bintara POLRI
-            </p>
-          </div>
-        </div>
+        <?php } ?>
+
       </div>
     </div>
   </div>
@@ -470,18 +419,18 @@
   <!-- JavaScript Libraries -->
   <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/lib/easing/easing.min.js"></script>
-  <script src="assets/lib/wow/wow.min.js"></script>
-  <script src="assets/lib/owlcarousel/owl.carousel.min.js"></script>
-  <script src="assets/lib/isotope/isotope.pkgd.min.js"></script>
-  <script src="assets/lib/lightbox/js/lightbox.min.js"></script>
+  <script src="assets/tema/assets/lib/easing/easing.min.js"></script>
+  <script src="assets/tema/assets/lib/wow/wow.min.js"></script>
+  <script src="assets/tema/assets/lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="assets/tema/assets/lib/isotope/isotope.pkgd.min.js"></script>
+  <script src="assets/tema/assets/lib/lightbox/js/lightbox.min.js"></script>
 
   <!-- Contact Javascript File -->
-  <script src="assets/mail/jqBootstrapValidation.min.js"></script>
-  <script src="assets/mail/contact.js"></script>
+  <script src="assets/tema/assets/mail/jqBootstrapValidation.min.js"></script>
+  <script src="assets/tema/ assets/mail/contact.js"></script>
 
   <!-- Template Javascript -->
-  <script src="assets/js/main.js"></script>
+  <script src="assets/tema/assets/js/main.js"></script>
 </body>
 
 </html>
