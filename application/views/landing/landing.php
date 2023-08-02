@@ -67,7 +67,7 @@
   <!-- Nav Bar Start -->
   <div class="navbar navbar-expand-lg bg-dark navbar-dark">
     <div class="container-fluid">
-      <a href="index.html" class="navbar-brand">
+      <a href="<?= base_url('landing') ?>" class="navbar-brand">
         <img src="<?= base_url('assets/upload/image/' . $konfigurasi->logo) ?>" alt="logo-baru">
       </a>
       <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
