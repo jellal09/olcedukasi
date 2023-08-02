@@ -3,13 +3,13 @@
 
 <head>
   <meta charset="utf-8">
-  <!-- <title>OLC Edukasi</title> -->
+  <title>OLC Edukasi</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="Free Website Template" name="keywords">
   <meta content="Free Website Template" name="description">
 
   <!-- Favicon -->
-  <link href="" rel="icon">
+  <link href="<?= base_url('assets/upload/image/' . $konfigurasi->icon) ?>" rel="icon">
 
   <!-- Google Font -->
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap"
