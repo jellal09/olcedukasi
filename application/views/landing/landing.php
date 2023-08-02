@@ -308,10 +308,10 @@
           </div>
           <div class="testimonial-text">
             <p>
-              Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis
-              suscip justo dictum.
+              Semangat belajar dengan antusias untuk menjadi Akpol 2022, dengan bimbingan belajar menjadikan saya sangat
+              bisa mengukur kemampuan saya lebih baik.
             </p>
-            <h3>Wahyu Ansyar Putra Pratama</h3>
+            <h3>Satriya Bagus Widyaputra</h3>
           </div>
         </div>
         <div class="testimonial-item">
@@ -320,10 +320,11 @@
           </div>
           <div class="testimonial-text">
             <p>
-              Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis
-              suscip justo dictum.
+              Pengajarnya asyik untuk diajak diskusi, apalagi sistem belajarnya sudah pakai CAT, fasilitas yang didapat
+              ketika bimbel semua bermanfaat.
             </p>
-            <h3>Wahyu Ansyar Putra Pratama</h3>
+            <p>Perjuangan polri 2021.</p>
+            <h3>Adinsyah Bayu Irawan</h3>
           </div>
         </div>
         <div class="testimonial-item">
@@ -332,10 +333,10 @@
           </div>
           <div class="testimonial-text">
             <p>
-              Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis
-              suscip justo dictum.
+              Kesuksesan pertemuan antara kesempatan dan kesiapan. Di bimbel OLC saya mengasah kesiapan saya terkait
+              materi psikotes, akademik dan jasmani.
             </p>
-            <h3>Wahyu Ansyar Putra Pratama</h3>
+            <h3>Bararuna Duta R.</h3>
           </div>
         </div>
         <div class="testimonial-item">
@@ -344,10 +345,10 @@
           </div>
           <div class="testimonial-text">
             <p>
-              Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis
-              suscip justo dictum.
+              Kelasnya sangat nyaman, 1 kelas hanya 5 siswa jadi materi yg diajarkan bisa saya pahami dengan baik, saya
+              berterima kasih banyak menjadi bagian dari siswa OLC.
             </p>
-            <h3>Wahyu Ansyar Putra Pratama</h3>
+            <h3>Restu Aji Bayu Pamungkas</h3>
           </div>
         </div>
         <div class="testimonial-item">
@@ -356,10 +357,10 @@
           </div>
           <div class="testimonial-text">
             <p>
-              Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis
-              suscip justo dictum.
+              Mbak adminnya baik baik, setiap hari selalu diingatkan ketika ada jadwal. Bagi kamu yg ingin mendapat WA
+              tiap hari, belajarnya di OLC Edukasi aja.
             </p>
-            <h3>Wahyu Ansyar Putra Pratama</h3>
+            <h3>Kadek Tirta Amerta A. W.</h3>
           </div>
         </div>
         <div class="testimonial-item">
@@ -368,10 +369,10 @@
           </div>
           <div class="testimonial-text">
             <p>
-              Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis
-              suscip justo dictum.
+              Banyak hal baru yang belum saya pelajari, namun dengan bimbel bersama OLC Edukasi bertambah wawasan dan
+              pengetahuan saya, sehingga aya bisa lolos masuk angkatan militer.
             </p>
-            <h3>Wahyu Ansyar Putra Pratama</h3>
+            <h3>Febri Ari Cahya</h3>
           </div>
         </div>
         <div class="testimonial-item">
@@ -380,10 +381,11 @@
           </div>
           <div class="testimonial-text">
             <p>
-              Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis
-              suscip justo dictum.
+              Pengalaman saya ketika mengikuti pembinaan, pengajaranya sangat kompeten di bidangnya sehingga soal-soal
+              yang diajarkan banyak yang keluar ketika saya mengikuti tes Polri 2015. Alhamdulillah sekarang saya
+              bertugas di polres Jember.
             </p>
-            <h3>Wahyu Ansyar Putra Pratama</h3>
+            <h3>Sofyan Ubaidillah</h3>
           </div>
         </div>
         <div class="testimonial-item">
@@ -392,10 +394,13 @@
           </div>
           <div class="testimonial-text">
             <p>
-              Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis
-              suscip justo dictum.
+              Perkenalkan saya asli kota Jember, alhamdulilah 2x mencoba ikut tes penerimaan Akpol, yang kedua lulus
+              mengikuti pendidikan 2022.
             </p>
-            <h3>Wahyu Ansyar Putra Pratama</h3>
+            <p>
+              Terima kasih OLC Edukasi.
+            </p>
+            <h3>Adam Rifqi P.</h3>
           </div>
         </div>
         <div class="testimonial-item">
@@ -404,10 +409,10 @@
           </div>
           <div class="testimonial-text">
             <p>
-              Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis
-              suscip justo dictum.
+              Menjadi abdi negara adalah cita-cita, menjadi pelaut adalah pengalaman yang luar biasa, berkeliling dunia
+              menjadi seorang mualim.Kunci sukses adalah belajar, berlatih dan berdoa.
             </p>
-            <h3>Wahyu Ansyar Putra Pratama</h3>
+            <h3>Wahyu Ansyar Putra P.</h3>
           </div>
         </div>
         <div class="testimonial-item">
@@ -416,10 +421,10 @@
           </div>
           <div class="testimonial-text">
             <p>
-              Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis
-              suscip justo dictum.
+              Belajar di Bimbel OLC sangat nyaman, materi, guru dan layanan konsultasi hipnoterapi menjadikan saya makin
+              percaya diri meraih impian.
             </p>
-            <h3>Customer Name</h3>
+            <h3>Aditya Aryayuda Putra</h3>
           </div>
         </div>
         <div class="testimonial-item">
@@ -428,10 +433,13 @@
           </div>
           <div class="testimonial-text">
             <p>
-              Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis
-              suscip justo dictum.
+              Bimbingan yang singkat menjadikan saya harus banyak mengasah kemampuan terutama materi akademik, dengan
+              belajar di bimbel OLC yang di Jember, saya bisa meningkatkan nilai saya sehingga lulus polri 2021,
+              menempuh masa belajar membutuhkan penuh perjuangan.</p>
+            <p>
+              Terima kasih banyak mr/ms.
             </p>
-            <h3>Customer Name</h3>
+            <h3>Yusuf Akbar Al Kahfi</h3>
           </div>
         </div>
         <div class="testimonial-item">
@@ -440,10 +448,12 @@
           </div>
           <div class="testimonial-text">
             <p>
-              Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis
-              suscip justo dictum.
+              Pengalaman saya , mengikuti bimbel di OLC membuat saya makin terarah untuk masuk sekolah kedinasan
+              terutama di PPI Madiun. Materinya sudah sistem CAT dan pengajarnya menjelaskan sangat nyaman. Banyak
+              pendampingan yang saya dapatkan terutama pemilihan kedinasan yg berpeluang.
             </p>
-            <h3>Customer Name</h3>
+            <p>Tetap Semangat...</p>
+            <h3>Lazuardy Imam Qudzori</h3>
           </div>
         </div>
         <div class="testimonial-item">
@@ -452,10 +462,12 @@
           </div>
           <div class="testimonial-text">
             <p>
-              Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis
-              suscip justo dictum.
+              Pengajarnya mudah diajak ngobrol, terutama materi matematika butuh ekstra sabar.
             </p>
-            <h3>Customer Name</h3>
+            <p>
+              Terima kasih mr/ms.
+            </p>
+            <h3>Tegar Farda Saputra</h3>
           </div>
         </div>
         <div class="testimonial-item">
@@ -464,10 +476,10 @@
           </div>
           <div class="testimonial-text">
             <p>
-              Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis
-              suscip justo dictum.
+              Staff dan pengajar di bimbel OLC sudah seperti keluarga sendiri, asyik, seru dan rasa kekeluargaan sangat
+              bagus, jadi yang mau menjadi abdi negara pastinya bimbelnya di Jember saja, OLC Edukasi.
             </p>
-            <h3>Customer Name</h3>
+            <h3>Andhika Ghaniya R.</h3>
           </div>
         </div>
         <div class="testimonial-item">
@@ -476,10 +488,10 @@
           </div>
           <div class="testimonial-text">
             <p>
-              Lorem ipsum dolor sit amet consec adipis elit. Etiam accums lacus eget velit tincid, quis
-              suscip justo dictum.
+              Saya mengikuti OLC Edukasi pada tahun 2017 , materi yang diajarkan sangat berguna terutama psikotes.
+              Mengingat materi tersebut belum pernah saya pelajari di sekolah sebelumnya.
             </p>
-            <h3>Customer Name</h3>
+            <h3>Ayang Zhelius</h3>
           </div>
         </div>
       </div>
