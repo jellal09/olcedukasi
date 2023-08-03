@@ -19,7 +19,6 @@
                 <h3>Keunggulan Fasilitas Kami</h3>
                 <hr>
 
-
                 <div class="row">
                   <?php foreach ($fasilitas as $fas) { ?>
                     <div class="card">
@@ -42,11 +41,9 @@
                   <?php } ?>
                 </div>
 
-
               </div>
             </div>
           </div>
-
         </div>
       </div>
     </div>
