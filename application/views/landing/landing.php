@@ -55,7 +55,6 @@
                   class="fab fa-whatsapp"></i></a>
               <a href="https://www.instagram.com/olcedukasi/"><i class="fab fa-instagram"></i></a>
               <a href="https://facebook.com/bimbelpolrikedinasan"><i class="fab fa-facebook-f"></i></a>
-              <a href=""><i class="fab fa-twitter"></i></a>
             </div>
           </div>
         </div>
@@ -79,14 +78,6 @@
           <a href="https://wa.me/+6281233157293?text=Halo%20kak,%20Saya%20mendapatkan%20informasi%20dari%20web%20OLC%20Edukasi.%20Mohon%20informasi%20untuk%20programnya%20ya."
             class="nav-item nav-link">Konsultasi</a>
           <a href="https://olcedukasi.com/daftar" class="nav-item nav-link">Daftar Sekarang</a>
-          <!-- <div class="nav-item dropdown">
-                            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Blog</a>
-                            <div class="dropdown-menu">
-                                <a href="blog.html" class="dropdown-item">Blog Grid</a>
-                                <a href="single.html" class="dropdown-item">Blog Detail</a>
-                            </div>
-                        </div>
-                        <a href="contact.html" class="nav-item nav-link">Contact</a> -->
         </div>
       </div>
     </div>
@@ -104,8 +95,9 @@
               Wujudkan Cita-Citamu Menjadi Abdi Negara.
             </p>
             <div class="hero-btn">
-              <a class="btn" href="">Konsulatasi</a>
-              <a class="btn" href="">Daftar Sekarang</a>
+              <a class="btn"
+                href="https://wa.me/+6281233157293?text=Halo%20kak,%20Saya%20mendapatkan%20informasi%20dari%20web%20OLC%20Edukasi.%20Mohon%20informasi%20untuk%20programnya%20ya.">Konsultasi</a>
+              <a class="btn" href="https://olcedukasi.com/daftar">Daftar Sekarang</a>
             </div>
           </div>
         </div>
@@ -178,7 +170,7 @@
             <p>
               Program reguler merupakan program utama dari bimbel TNI-POLRI-Kedinasan di OLC...
             </p>
-            <a href="">Baca Selengkapnya</a>
+            <a href="https://olcedukasi.com/program/reguler">Baca Selengkapnya</a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
@@ -190,7 +182,7 @@
             <p>
               Program private merupakan program khusus sesuai kebutuhan siswa. Program disusun...
             </p>
-            <a href="">Baca Selengkapnya</a>
+            <a href="https://olcedukasi.com/program/program/program-private">Baca Selengkapnya</a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
@@ -202,7 +194,7 @@
             <p>
               Program online merupakan bimbingan yang dilaksanakan secara virtual dimana siswa...
             </p>
-            <a href="">Baca Selengkapnya</a>
+            <a href="https://olcedukasi.com/program/program/program-online">Baca Selengkapnya</a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
@@ -214,7 +206,7 @@
             <p>
               Program intensif merupakan program persiapan tes dengan durasi waktu singkat...
             </p>
-            <a href="">Baca Selengkapnya</a>
+            <a href="https://olcedukasi.com/program/program/program-intensif">Baca Selengkapnya</a>
           </div>
         </div>
         <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.8s">
@@ -226,7 +218,7 @@
             <p>
               Program jasmani merupakan program yang fokus mengembangkan kebugaran jasmani dan...
             </p>
-            <a href="">Baca Selengkapnya</a>
+            <a href="https://olcedukasi.com/program/program/program-jasmani">Baca Selengkapnya</a>
           </div>
         </div>
       </div>
@@ -517,8 +509,6 @@
                 class="fab fa-whatsapp"></i></a>
             <a href="https://www.instagram.com/olcedukasi"><i class="fab fa-instagram"></i></a>
             <a href="https://www.facebook.com/bimbelpolrikedinasan"><i class="fab fa-facebook-f"></i></a>
-            <a href=""><i class="fab fa-youtube"></i></a>
-            <a href=""><i class="fab fa-twitter"></i></a>
           </div>
         </div>
       </div>
