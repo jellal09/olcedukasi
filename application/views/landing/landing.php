@@ -515,7 +515,7 @@
       <div class="container copyright">
         <div class="row">
           <div class="col-md-6">
-            <p>&copy; <a href="https://olcedukasi.com">OLC Edukasi</a>, All Right Reserved.</p>
+            <p>&copy; copyright, <a href="https://olcedukasi.com">OLC Edukasi</a></p>
           </div>
           <div class="col-md-6">
             <p>Designed By <a href="https://olcedukasi.com">OLC Edukasi</a></p>
