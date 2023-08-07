@@ -103,7 +103,7 @@
         </div>
         <div class="col-sm-12 col-md-6 d-none d-md-block">
           <div class="hero-image">
-            <!-- <img src="assets/img/hero.png" alt="Hero Image"> -->
+            <img src="assets/upload/image/alumn-2-name.png" alt="Hero Image">
           </div>
         </div>
       </div>
